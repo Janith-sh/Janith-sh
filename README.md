@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Janith-sh/Janith-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Janith, a software engineering student passionate about full-stack development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on: StarNet platform & MERN projects  
+- 🌱 I’m learning: Next.js, MongoDB, and Tailwind CSS  
+- 👯 I’m looking to collaborate on: Open-source projects  
+- 💬 Ask me about: MERN stack, Next.js, Node.js  
+- 📫 How to reach me: shanjanith@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Frontend: React, Next.js, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+
+
+
