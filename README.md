@@ -6,7 +6,7 @@ I'm Janith, a software engineering student passionate about full-stack developme
 - 🔭 I’m currently working on: SaloonBooking.lk platform & MERN and Next.js based projects  
 - 🌱 I’m learning:  Spring Boot, and .NET  
 - 👯 I’m looking to collaborate on: Open-source projects  
-- 💬 Ask me about: MERN stack, Next.js, Node.js  
+- 💬 Ask me about: MERN stack, Next.js, JavaScript  
 - 📫 How to reach me: shanjanith51@gmail.com 
 
 ## 🛠️ Tech Stack
