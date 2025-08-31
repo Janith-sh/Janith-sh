@@ -6,13 +6,13 @@ I'm Janith, a software engineering student passionate about full-stack developme
 - 🔭 I’m currently working on: SaloonBooking.lk platform & MERN and Next.js based projects  
 - 🌱 I’m learning:  Spring Boot, and .NET  
 - 👯 I’m looking to collaborate on: Open-source projects  
-- 💬 Ask me about: MERN stack, Next.js, JavaScript  
+- 💬 Ask me about: MERN stack, Next.js  
 - 📫 How to reach me: shanjanith51@gmail.com 
 
 ## 🛠️ Tech Stack
-- Frontend: React, Next.js, Tailwind CSS  
-- Backend: Node.js, Express.js  
-- Database: MongoDB 
+- Frontend: React.js, Next.js  
+- Backend: Node.js, Express.js, Next.js 
+- Database: MongoDB, MySQL
 
 
 
