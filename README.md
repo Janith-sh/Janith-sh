@@ -13,7 +13,7 @@ I’m a passionate software engineering student who enjoys building scalable, us
 - 🧠 Interested in **Software Engineering principles**, clean code, and best practices
 - 👯 Open to collaborating on **open-source projects** and startup ideas
 - 💬 Ask me about **MERN Stack, Next.js, Spring Boot, REST APIs, JWT**
-- 📫 Reach me at: **shanjanith51@gmail.com**
+- 📫 Reach me at: **shanjanith52@gmail.com**
 
 ---
 
@@ -29,11 +29,12 @@ I’m a passionate software engineering student who enjoys building scalable, us
 - Node.js  
 - Express.js  
 - Next.js API Routes  
-- **Spring Boot (Automobile Service Backend)**
+- **Spring Boot **
 
 ### 🗄️ Databases
 - MongoDB  
 - MySQL  
+- PostgresQL
 
 ### 🔐 Authentication & APIs
 - JWT Authentication  
