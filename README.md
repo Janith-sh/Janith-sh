@@ -17,15 +17,4 @@ I’m a passionate software engineering student who enjoys building scalable, us
 
 ---
 
-
-
-
-
-## 🌱 Career Goals
-- Become a strong **Software Engineer** with real-world project experience  
-- Secure a **Software Engineering Internship**  
-- Contribute to impactful products and open-source communities  
-
----
-
 ⭐ *Feel free to explore my repositories and connect with me!*
